@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/phillipeshin/react-portfolio/static/css/main.1581edd9.chunk.css",
-    "main.js": "/phillipeshin/react-portfolio/static/js/main.aec650bd.chunk.js",
-    "main.js.map": "/phillipeshin/react-portfolio/static/js/main.aec650bd.chunk.js.map",
-    "runtime~main.js": "/phillipeshin/react-portfolio/static/js/runtime~main.8e133019.js",
-    "runtime~main.js.map": "/phillipeshin/react-portfolio/static/js/runtime~main.8e133019.js.map",
-    "static/js/2.4daa920d.chunk.js": "/phillipeshin/react-portfolio/static/js/2.4daa920d.chunk.js",
-    "static/js/2.4daa920d.chunk.js.map": "/phillipeshin/react-portfolio/static/js/2.4daa920d.chunk.js.map",
-    "index.html": "/phillipeshin/react-portfolio/index.html",
-    "precache-manifest.16d84ba3c3efce50cf530b77df160e7f.js": "/phillipeshin/react-portfolio/precache-manifest.16d84ba3c3efce50cf530b77df160e7f.js",
-    "service-worker.js": "/phillipeshin/react-portfolio/service-worker.js",
-    "static/css/main.1581edd9.chunk.css.map": "/phillipeshin/react-portfolio/static/css/main.1581edd9.chunk.css.map",
-    "static/media/header.css": "/phillipeshin/react-portfolio/static/media/background2.e54f767b.jpeg",
-    "static/media/mywork.css": "/phillipeshin/react-portfolio/static/media/rps.c12ad629.png",
-    "static/media/social.css": "/phillipeshin/react-portfolio/static/media/skill2.111a0313.png",
-    "static/media/skills.css": "/phillipeshin/react-portfolio/static/media/skillbackground.e1b09358.jpg",
-    "static/media/self.jpg": "/phillipeshin/react-portfolio/static/media/self.74012b95.jpg",
-    "static/media/self2.jpeg": "/phillipeshin/react-portfolio/static/media/self2.e6974f34.jpeg"
+    "main.css": "/react-portfolio/static/css/main.bc740c63.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.87b504d7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.87b504d7.chunk.js.map",
+    "runtime~main.js": "/react-portfolio/static/js/runtime~main.f974a8eb.js",
+    "runtime~main.js.map": "/react-portfolio/static/js/runtime~main.f974a8eb.js.map",
+    "static/js/2.4daa920d.chunk.js": "/react-portfolio/static/js/2.4daa920d.chunk.js",
+    "static/js/2.4daa920d.chunk.js.map": "/react-portfolio/static/js/2.4daa920d.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.25d70a6d5caff5528478c569375dee31.js": "/react-portfolio/precache-manifest.25d70a6d5caff5528478c569375dee31.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.bc740c63.chunk.css.map": "/react-portfolio/static/css/main.bc740c63.chunk.css.map",
+    "static/media/header.css": "/react-portfolio/static/media/background2.e54f767b.jpeg",
+    "static/media/mywork.css": "/react-portfolio/static/media/rps.c12ad629.png",
+    "static/media/social.css": "/react-portfolio/static/media/skill2.111a0313.png",
+    "static/media/skills.css": "/react-portfolio/static/media/skillbackground.e1b09358.jpg",
+    "static/media/self.jpg": "/react-portfolio/static/media/self.74012b95.jpg",
+    "static/media/self2.jpeg": "/react-portfolio/static/media/self2.e6974f34.jpeg"
   }
 }
